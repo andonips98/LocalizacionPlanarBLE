@@ -1,0 +1,34 @@
+Los valores finales de RSSI para todas las posiciones son los siguientes: 
+
+Principal_Fingerprint_Salon_2.csv son de [-62.76911655717093, -64.26764151145827, -66.40626461141984]
+
+Principal_Fingerprint_Salon_4.csv son de [-70.45207650006563, -68.8824719958579, -52.68588636831591]
+
+Principal_Fingerprint_Pasillo_2.csv son de [-64.86423671616208, -55.21557110381513, -70.08264258375475]
+
+Principal_Fingerprint_Cuarto3_2.csv son de [-73.86462154143808, -73.56386921367574, -67.30898383402125]
+
+Principal_Fingerprint_Cuarto3_1.csv son de [-74.58227528326867, -74.78301894833375, -60.69868360329184]
+
+Principal_Fingerprint_Cuarto2.csv son de [-68.95845398690798, -68.43525231628149, -58.023064036164406]
+
+Principal_Fingerprint_Salon_3.csv son de [-69.44277853702363, -59.672628040946144, -62.164384351426186]
+
+Principal_Fingerprint_Baño.csv son de [-74.8083283567282, -54.37819739941417, -74.61253740925318]
+
+Principal_Fingerprint_Salon_1.csv son de [-68.29538974647866, -59.78240987901251, -66.27001048050381]
+
+Principal_Fingerprint_Cuarto1_1_Act.csv son de [-70.45307885526012, -59.315387064833175, -72.00696014786968]
+
+Principal_Fingerprint_Cocina_2.csv son de [-54.76016916672214, -74.79720137029503, -73.46976179130644]
+
+Principal_Fingerprint_Entrada.csv son de [-63.376117638268546, -62.21148086887204, -70.99418925588269]
+
+Principal_Fingerprint_Balcon.csv son de [-74.46730980533708, -66.4009088586453, -69.99185629501278]
+
+Principal_Fingerprint_Cuarto1_2_Act.csv son de [-74.46071148354133, -59.33131621365836, -71.15962244790241]
+
+Principal_Fingerprint_Cocina_1.csv son de [-58.541802347945314, -72.91359524503453, -72.45060466404156]
+
+Principal_Fingerprint_Pasillo_1.csv son de [-72.08598209371124, -50.350677482319526, -71.07717998261302]
+
